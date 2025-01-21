@@ -2,28 +2,40 @@ HEADER:
   label: "About me"
 
 PRESENTATION:
-  description: |
-    I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+  description:
 
-    My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+    Experienced Security Professional specializing in Cloud & Application Security, with expertise in architecting access control policies, integrating PAM solutions, & security frameworks. Proficient in conducting vulnerability assessments & advanced reporting, with a strong focus on enhancing security postures through threat mitigation & ASM monitoring.
 
 DOING:
   enabled: true
   label: "What I'm doing"
   items:
-    - title: "Mobile Apps"
+    - title: "Security Researcher @Security Brigade"
       icon: "config/assets/icons/mobile.svg"
-      description: "Professional development of applications for iOS and Android."
-    - title: "Scripting"
+      description: "Led the deployment of ShadowMap for Attack Surface Management, enhancing external threat visibility and reducing incident response times by 35%. -- Project I
+      Developed iInsights VRMS from scratch, aligning with NIST and OWASP standards, for comprehensive vulnerability management, detection, and actionable remediation recommendations. – Project II"
+    - title: "Advisory Board Member and Ambassador @APISec University"
       icon: "config/assets/icons/code.svg"
-      description: "Automation and task scripting using Python to enhance efficiency and productivity."
-    - title: "UI/UX Designing"
+      description: "Contributed to OffSec research, curriculum development & education through webinars & OWASP-based best practices."
+    - title: "Cloud Solutions Architect"
       icon: "config/assets/icons/compass.svg"
-      description: "Intuitive and visually appealing user interfaces and user experiences."
-    - title: "Web Development"
+      description: "Migrated VMware ESXi to Hyper-V on AWS-S3 buckets and configured a DR policy to sync data to HP C7000 blades."
+    - title: "Cloud Security Engineer"
       icon: "config/assets/icons/laptop-code.svg"
-      description: "High-quality development of sites at the professional level."
-
+      description: "Deployed ZTNA for secure remote access, minimizing the attack surface and optimizing FWaaS policies for compliance."
+    - title: "IAM Solutions Architect"
+      icon: "config/assets/icons/compass.svg"
+      description: "Streamlined identity management with SailPoint, Thycotic PAM, & AD, ensuring compliance and data integrity."
+    - title: "Vulnerability Management Specialist"
+      icon: "config/assets/icons/compass.svg"
+      description: "Executed InsightVM scans, deploying Local Engine for targeted detection & enhanced endpoint detection." 
+    - title: "OT Security Consultant"
+      icon:  "config/assets/icons/compass.svg"
+      description: "– Led global ARMIS deployment, assessed security gaps with client data, and drove seamless revenue generation."
+    - title: "Security Risk and Compliance Architect"
+      icon: "config/assets/icons/compass.svg"
+      descripition: "– Enforced policies via ServiceNow, automating risk scoring, compliance, & governance with real-time analytics."
+    - title: "" 
 SKILLS:
   enabled: true
   label: "Soft Skills"
@@ -51,21 +63,21 @@ TECHNOLOGIES:
       icon: "config/assets/icons/flutter.svg"
     - title: "Git"
       icon: "config/assets/icons/git.svg"
-    - title: "Figma"
+    - title: "Cloud Security"
       icon: "config/assets/icons/figma.svg"
-    - title: "Firebase"
+    - title: "Vulnerability Management"
       icon: "config/assets/icons/firebase.svg"
-    - title: "Pandas"
+    - title: "Exploit Development"
       icon: "config/assets/icons/pandas.svg"
-    - title: "MongoDB"
+    - title: "Kali Linux"
       icon: "config/assets/icons/mongodb.svg"
-    - title: "Dart"
+    - title: "Offensive Security - Red Teaming and Penetration Testing"
       icon: "config/assets/icons/dart.svg"
-    - title: "HTML"
+    - title: "ML"
       icon: "config/assets/icons/html.svg"
     - title: "AI"
       icon: "config/assets/icons/ai.svg"
-    - title: "Jupyter"
+    - title: "NLP"
       icon: "config/assets/icons/jupyter.svg"
-    - title: "Linux"
+    - title: "LLM"
       icon: "config/assets/icons/linux.svg"
